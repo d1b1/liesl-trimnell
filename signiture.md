@@ -24,7 +24,7 @@ sitemap: false
                     (617) 501-5800
                 </a> 
                 | 
-                <a href="https://StephanSmith.Solutions" target="site" style="color: #000 !important;">
+                <a href="https://LieslTrimnell.com" target="site" style="color: #000 !important;">
                     Liesl.StephanSmith.solutions
                 </a>
             <br>
@@ -35,13 +35,8 @@ sitemap: false
         </td>
         <td  width="5%" style="padding-left: 10px;" valign="top">
             <p>
-                <a href="https://www.linkedin.com/in/stephansmithbc93/" target="_blank">
+                <a href="https://www.linkedin.com/in/liesl-trimnell-aa5969105/" target="_blank">
                   <img class="hover-image" src="https://StephanSmith.solutions/assets/images/linkedIn.jpeg" class="hi"/>
-                </a>
-            </p>
-            <p>
-                <a href="https://github.com/d1b1" target="_blank">
-                  <img class="hi" src="https://StephanSmith.solutions/assets/images/github.png"  />
                 </a>
             </p>
             <p>
@@ -53,7 +48,7 @@ sitemap: false
     </tr>
     <tr>
         <td colspan="3" style="padding-top: 15px;">
-            What is a <a href="https://liesl.stephansmith.solutions/what_is_a_hospitality_guide" style="color: #000;" target="site">fractional CTO</a>...
+            What is a <a href="https://liesl.stephansmith.solutions/what_is_a_hospitality_guide" style="color: #000;" target="site">hospitality guide</a>...
         </td>
     </tr>
 </table>
