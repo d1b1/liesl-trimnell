@@ -1,24 +1,24 @@
 ---
-title:  The Ai Big Bang
-subtitle: Too much, too fast, that's the current state of Ai tooling.
+title:  Liesl Trimnell
+subtitle: Boston's best Airbnb Guide and Operator
 layout: default
 published: true
 date: 2024-05-26 00:00:00
 order: 1
-sitemap: false
+sitemap: true
 ---
 
 {% include subStyles.css %}
 
 <div class="pricing-header p-3 pb-md-4 mt-5 mx-auto text-center">
     <h1 class="display-5 fw-normal text-body-emphasis">
-        I am an AirBnb pro who helps <b>Homeowners</b> make hosting experience
+        I am an AirBnb pro who helps <b>homeowners</b> make hosting experience
         <b>easy</b> and <b>practically</b>.
     </h1>
     <p class="fs-5 mt-4 text-body-secondary">
-        As a serial hostess, I know the value of well run hosting experiences. I
+        As a serial host, I know the value of well-run hosting experiences. I
         know the challenge of setting prices, managing expectations and navigating
-        host/guess challenges to make the AirBnb experience a success..
+        host/guess challenges to make the AirBnb experience a success.
     </p>
     <br>
     <a class="btn btn-lg d-block d-md-inline btn-success" target="calendly"
@@ -42,10 +42,10 @@ sitemap: false
             Liesl Trimnell
         </h2>
         <p>
-            Super Hostess | Unit Stager | Trusted Advisor
+            Super Host | Unit Stager | Trusted Advisor
         </p>
         <p>
-            Boston-based super hostess, since 2012. It's hard work to
+            Boston-based super host, since 2012. It's hard work to
             become a good host. I have set up, tuned and managed countless
             units in Boston and around the New England region.
         </p>
@@ -143,7 +143,7 @@ sitemap: false
         </div>
         <div class="card-body">
             <ul class="list-unstyled mt-3 mb-4">
-            <li>When you need an <b>hostess</b> to take a day-to-day role.</li>
+            <li>When you need an <b>host</b> to take a day-to-day role.</li>
             <li>&nbsp;</li>
             <li>Provide strategy.</li>
             <li>Run a dev team and process.</li>
@@ -160,9 +160,9 @@ sitemap: false
 <h2 class="display-6 text-center mb-4">My Process</h2>
 
 <p class="fs-5 text-body-secondary">
-        I have been a hostess for over twelve years, and see
+        I have been a host for over twelve years, and see
         and worked in countless AirBnb units. I have loved my
-        experiences as a hostess. It might not be for everyone, but
+        experiences as a host. It might not be for everyone, but
         I believe with a little help, anyone can be a super host,
         and offer a wonderful experience to their guests.
 </p>

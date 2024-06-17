@@ -2,6 +2,7 @@
 title: Things to Know
 layout: default
 subtitle: There are a lot of details to work out to get your unit ready for guests and functioning well.
+sitemap: true
 ---
 
 {% include subStyles.css %}
