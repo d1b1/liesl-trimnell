@@ -6,7 +6,6 @@ sitemap: true
 ---
 
 {% include subStyles.css %}
-
 {% include articleHeader.html %}
 
 {% assign articles = site.articles | sort: "order" %}
@@ -25,14 +24,15 @@ sitemap: true
   <hr>
 {% endfor %}
 
-<div class="mt-5 mb-5 tech-note">
+<div class="mt-5 mb-5 tech-note" style="margin-bottom: 200px;">
     <h5>
       Homeowner Tips
     </h5>
     <p>
-        These articles are written to give first time AirBnb
-        hosts some context for different types of issues they 
+        These articles are written to give first-time Airbnb
+        hosts some context for different types of issues they
         will have as they get started.
+    </p>
 </div>
 
 <style>

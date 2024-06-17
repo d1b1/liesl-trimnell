@@ -1,6 +1,6 @@
 ---
 title:  Your House Your Rules
-subtitle: Gettings started take some time.
+subtitle: Getting started take some time.
 layout: default
 published: true
 date: 2024-05-26 00:00:00

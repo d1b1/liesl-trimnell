@@ -10,7 +10,7 @@ sitemap: false
 <table id="aa" style="font-size: 0.9em; min-width: 400px; max-width: 550px; font-family: 'Trebuchet MS';">
     <tr>
         <td width="5%" style="padding-right: 10px;">
-            <img src="https://liesl.stephansmith.solutions/assets/avatar.png" class="ha" />
+            <img src="https://liesltrimnell.com/assets/avatar.png" class="ha" />
         </td>
         <td style="padding-left: 10px;">
             <h4 style="font-size: 1.3em !important; margin-bottom: 0px !important; padding-bottom: 0px !important;">
@@ -25,7 +25,7 @@ sitemap: false
                 </a> 
                 | 
                 <a href="https://LieslTrimnell.com" target="site" style="color: #000 !important;">
-                    Liesl.StephanSmith.solutions
+                    LieslTrimnell.com
                 </a>
             <br>
             Liesl.Trimnell@gmail.com
@@ -35,20 +35,20 @@ sitemap: false
         </td>
         <td  width="5%" style="padding-left: 10px;" valign="top">
             <p>
-                <a href="https://www.linkedin.com/in/liesl-trimnell-aa5969105/" target="_blank">
-                  <img class="hover-image" src="https://StephanSmith.solutions/assets/images/linkedIn.jpeg" class="hi"/>
+                <a href="https://www.linkedin.com/in/liesl-trimnell/" target="_blank">
+                  <img class="hover-image" src="https://liesltrimnell.com/assets/images/linkedIn.jpeg" class="hi"/>
                 </a>
             </p>
             <p>
-                <a href="https://calendly.com/stephan-smith/introduction?back=1&month=2024-04" target="_blank">
-                    <img src="https://StephanSmith.solutions/assets/images/calendly.png" class="hi">
+                <a href="https://calendly.com/liesl-trimnell/introduction?back=1&month=2024-04" target="_blank">
+                    <img src="https://liesltrimnell.com/assets/images/calendly.png" class="hi">
                 </a>
             </p>
         </td>
     </tr>
     <tr>
         <td colspan="3" style="padding-top: 15px;">
-            What is a <a href="https://liesl.stephansmith.solutions/what_is_a_hospitality_guide" style="color: #000;" target="site">hospitality guide</a>...
+            What is a <a href="https://liesltrimnell.com/what_is_a_hospitality_guide" style="color: #000;" target="site">hospitality guide</a>...
         </td>
     </tr>
 </table>

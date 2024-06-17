@@ -37,8 +37,12 @@ sitemap: true
 
 <hr>
 <div class="row featurette">
-    <div class="col-md-8 order-md-2">
-        <h2 class="featurette-heading fw-normal lh-1">
+    <div class="col-md-3 order-md-1">
+        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto avatar"
+        alt="Liesl Trimnell, Hospitality Guide" style="border-radius: 8px" src="assets/avatar.png">
+    </div>
+    <div class="col-md-8 order-md-2 order-sm-2">
+        <h2 class="featurette-heading fw-normal lh-1 mt-2">
             Liesl Trimnell
         </h2>
         <p>
@@ -59,21 +63,17 @@ sitemap: true
             <span class="badge text-bg-dark">Scheduling</span>
         </p>
         <p class="lead">
-            <a href="https://www.linkedin.com/in/liesl-trimnell-aa5969105/" title="Liesl Trimnnl, on LinkedIn" aria-label="Liels's LinkedIn Profile">
+            <a href="https://www.linkedin.com/in/liesl-trimnell/" title="Liesl Trimnnl, on LinkedIn" aria-label="Liels's LinkedIn Profile">
               <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
                 <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8 212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3 252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z"/>
               </svg>
             </a>
         </p>
-        </div>
-        <div class="col-md-3 order-md-1">
-          <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto avatar"
-            alt="Liesl Trimnell, Hospitality Guide" style="border-radius: 8px" src="assets/avatar.png">
-        </div>
-      </div>
-    
+    </div>
+</div>
+
 <hr/>
-    
+
 <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
     <h2 class="display-6 text-center mb-4">
         Why use a hospitality guide?
@@ -81,6 +81,19 @@ sitemap: true
     <p class="fs-5 text-body-secondary">
         You use a hospitality guide when you need <b>help</b> getting started, navigating and improving the hosting experience for both your <b>guests</b>,
         <b>family</b> and own <b>personal</b> needs. When you need to turn your unit into a supportable part of your life.
+    </p>
+</div>
+
+<hr/>
+
+<div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+    <h2 class="display-6 text-center mb-4">
+        FYI
+    </h2>
+    <p class="fs-5 text-body-secondary">
+        I have set up <b>31</b> new AirBnb listing, tuned <b>14</b> active listings,
+        staging <b>18</b> units for short term hosting, and managed <b>61</b>.
+        All since the Airbnb went live in 2009. :)
     </p>
 </div>
 
@@ -93,9 +106,9 @@ sitemap: true
           How I help.
         </h2>
         <p class="fs-5 text-body-secondary">
-          I offer packages to get your comfortable with the hosting process,
-          and options to tune and refine your properties, as well as day to
-          day management.
+          I offer packages to get you comfortable with the hosting process,
+          and options to tune and refine your properties, as well as day-to-day
+          management.
         </p>
       </div>
 

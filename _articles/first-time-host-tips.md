@@ -11,17 +11,17 @@ sitemap: true
 {% include subStyles.css %}
 
 #### Tip 1
-Need some copy here. Need some copy here. Need some copy here. Need some copy here. 
-Need some copy here. Need some copy here. Need some copy here. Need some copy here. 
-Need some copy here. Need some copy here. Need some copy here. Need some copy here. 
-Need some copy here. 
+Need some copy here. Need some copy here. Need some copy here. Need some copy here.
+Need some copy here. Need some copy here. Need some copy here. Need some copy here.
+Need some copy here. Need some copy here. Need some copy here. Need some copy here.
+Need some copy here.
 
 #### Tip 2
 
-Need some copy here. Need some copy here. Need some copy here. Need some copy here. 
-Need some copy here. Need some copy here. 
-Need some copy here. 
+Need some copy here. Need some copy here. Need some copy here. Need some copy here.
+Need some copy here. Need some copy here.
+Need some copy here.
 
-Need some copy here. Need some copy here. 
+Need some copy here. Need some copy here.
 
 {% include articleFooter.html %}
