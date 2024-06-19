@@ -305,20 +305,17 @@ sitemap: true
 
 <div class="row">
     <div class="col-12 col-md-4">
-    <a href="https://www.linkedin.com/in/andrew-skalaban-58a57766/" target="linkedIn2"><img
-        alt="Andrew Skalaban" src="assets/testimonials/andrew-skalaban.jpeg"
+    <a href="https://www.linkedin.com/in/stephanieroderickwilliams/" target="linkedIn2"><img
+        alt="Andrew Skalaban" src="assets/testimonials/stephanie-williams.jpeg"
         class="float-start testimonial-avatar"></a>
     <div>
-        <b>Andrew Skalaban</b><br>CEO of <a href="https://southendhospitality.com/" class="link-secondary"
-        target="AC">South End Hospitality</a>
+        <b>Stephanie Williams</b><br> 
+        Airbnb Host, CA
     </div>
     </div>
     <div class="col-12 col-md-8">
     <p>
-        Liesl has been helping us in figuring out how we should get to
-        SOC2 compliance within a reasonable budget. He’s looked at our tech
-        stack and gave us practical recommendations on how it should evolve
-        over time. I’m looking forward to working with him again."
+        When we built our guest house, Liesl was our go-to person for advice on all things - layout, design, furniture, Wi-Fi, etc. She is a wealth of information on how to maximize your unit and ensure five-star reviews. She is well-versed in what guests need and want. I highly recommend her professional services to anyone contemplating building/renting/Airbnb/VRBO. She is responsive, organized, efficient, thoughtful, experienced, and she truly understands the nuances of the business.
     </p>
     </div>
 </div>
