@@ -40,7 +40,7 @@ sitemap: false
                 </a>
             </p>
             <p>
-                <a href="https://calendly.com/liesl-trimnell/introduction?back=1&month=2024-04" target="_blank">
+                <a href="https://calendly.com/liesl-trimnell?back=1&month=2024-04" target="_blank">
                     <img src="https://liesltrimnell.com/assets/images/calendly.png" class="hi">
                 </a>
             </p>
